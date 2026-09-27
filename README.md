@@ -242,4 +242,4 @@ This repository serves as the official landing page for OtsTurntables. The softw
 **Get the most recent version of OtsTurntables today!**
 
 ---
-**Last updated:** 2026-09-26 23:58:28 UTC
+**Last updated:** 2026-09-27 03:31:31 UTC
